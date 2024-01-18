@@ -49,8 +49,10 @@ const Home = () => {
 
             <button className="text-white w-fit px-6 py-3 my-2 items-center rounded-md  bg-blue-950 cursor-pointer">
               <a
-                href="/SUDIP PALADHI (resume).pdf"
-                download="SUDIP_PALADHI_resume.pdf"
+                href="https://drive.google.com/file/d/1cwy23UoQqY2TZWX2D9xj_cF2vRI0YPtH/view?usp=sharing"
+                download="https://drive.google.com/file/d/1cwy23UoQqY2TZWX2D9xj_cF2vRI0YPtH/view?usp=sharing"
+                target="_blank"
+              rel="noreferrer"
               >
                 <FaDownload size={25} />
               </a>
