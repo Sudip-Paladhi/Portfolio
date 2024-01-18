@@ -49,7 +49,7 @@ const Home = () => {
 
             <button className="text-white w-fit px-6 py-3 my-2 items-center rounded-md  bg-blue-950 cursor-pointer">
               <a
-                href="/SUDIP PALADHI (resume).pdf"
+                href={"/SUDIP PALADHI (resume).pdf"}
                 download={true}
                 target="_blank"
                 rel="noreferrer"
