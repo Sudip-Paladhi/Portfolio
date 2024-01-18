@@ -48,9 +48,10 @@ const Home = () => {
             </button>
 
             <button className="text-white w-fit px-6 py-3 my-2 items-center rounded-md  bg-blue-950 cursor-pointer">
-              <a href=""></a>
-              <a href={"/SUDIP PALADHI (resume).pdf"} download={true}>
-                {" "}
+              <a
+                href="/SUDIP PALADHI (resume).pdf"
+                download="SUDIP_PALADHI_resume.pdf"
+              >
                 <FaDownload size={25} />
               </a>
             </button>
