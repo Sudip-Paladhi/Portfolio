@@ -1,7 +1,7 @@
-import React from 'react'
+import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
-import { BsFillPersonLinesFill } from "react-icons/bs";
+import { FaDownload } from "react-icons/fa6";
 const SocialLinks = () => {
   const links = [
     {
@@ -36,7 +36,7 @@ const SocialLinks = () => {
       id: 4,
       child: (
         <>
-          Resume <BsFillPersonLinesFill size={30} />
+          Resume <FaDownload size={30} />
         </>
       ),
       href: "/SUDIP PALADHI (resume).pdf",
@@ -71,6 +71,6 @@ const SocialLinks = () => {
       </ul>
     </div>
   );
-}
+};
 
 export default SocialLinks;
