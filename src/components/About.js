@@ -13,12 +13,7 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl text-white md:mt-16 mt-6">
-          Hello, I'm Sudip Paladhi, a passionate and creative Frontend
-          Developer! dedicated to creating engaging and innovative web
-          experiences. With a strong foundation in HTML, CSS, and JavaScript, I
-          specialize in crafting scalable applications with React. I thrive in
-          collaborative environments and am always eager to contribute my skills
-          to dynamic projects.
+          Hello, I'm Sudip Paladhi, a passionate Full Stack Developer skilled in building dynamic and scalable web applications. On the frontend, I specialize in HTML, CSS, Tailwind CSS, JavaScript, and React.js to create responsive and user-friendly interfaces. On the backend, I have expertise in Core Java, Hibernate, SQL, Servlets, JSP, RESTful APIs, Spring, and Spring Boot, enabling me to develop robust and efficient server-side systems. With a focus on clean code and seamless user experiences, I strive to deliver impactful digital solutions.
         </p>
         <br />
         <p className="text-xl text-white hidden">
